@@ -17,6 +17,7 @@ Identify and describe at least three key milestones in the evolution of software
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 The phases of Software Development Includes:
     1. Planning: Involves analyzing requirements, evaluating feasibility and creating a project plan.
     2. Defining Requirements: Involves specifying all the requirements for the target Software
@@ -31,13 +32,16 @@ Compare and contrast the Waterfall and Agile methodologies. Provide examples of 
   Waterfall is sequential and rigid, with distinct phases completed in order. It is suitable for projects with well-defined requirements and minimal expected changes like Banking Systems and military software.  
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-  Software Developer: Responsible for designing, coding, and maintaining software   applications.
-  Quality Assurance Engineer: Ensures software meets quality standards before     release.
-  Project Manager: Oversees the project timeline, scope, and resources, ensuring   successful delivery.
+
+  Software Developer: Responsible for designing, coding, and maintaining software applications.
+  Quality Assurance Engineer: Ensures software meets quality standards before release.
+  Project Manager: Oversees the project timeline, scope, and resources, ensuring successful delivery.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
   Integrated Development Environments (IDEs): is a software environment that provides tools to assist developers in writing, testing, and debugging code efficiently. It hs built in functions that supports with code editing, syntax highlighting, debugging and error detection. Examples is Visual Studio Code (VS Code)
   Version Control Systems (VCS): It is a tool that helps developers track and manage changes to source code over time. It allows for collaboration among multiple developers and maintain a code history and recovery options. Examples is Git
+
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. Keeping Up with Rapidly Changing Technologies. Thic can be overcome by taking online courses and following industry blogs
